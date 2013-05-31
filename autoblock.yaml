@@ -1,0 +1,6 @@
+db_url: mysql://user:password@localhost/drupal
+minimum_failures: 10
+log_level: info
+whitelist:
+  - 127.0.0.1
+  - 1.2.3.4
